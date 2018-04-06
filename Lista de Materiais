@@ -14,7 +14,9 @@
     2x acopladores (flexible coupling) em alumínio para o eixo Z 5x5 mm
     2m Correias GT2 e 2x polias
     E3D V6 LITE HOTEND para filamento de diâmetro 1.75mm
-    5x Nema 17 motors (4 pcs of 3.2kg for axis and 1 pc of 5.2 kg/cm for extruder)
+    5x Motores Nema 17: 
+        4x 3.2kg para os eixos
+        1x 5.2 kg/cm para a extrusora
     Fonte chaveada 12V 30A
     Plug para o fio da fonte
     LCD display com cartão SD 4GB
