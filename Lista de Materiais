@@ -6,36 +6,52 @@
     1x Ventoinhas 50x50 mm or 40x40 mm
     1x Bandeja de aquecimento (heatbed) Mk2a/Mk2b com termistor
     1x Placa de vidro 20x20 cm
-    Rolamentos:
-      11x LM8UU
-      3x 608ZZ
-      2x F623ZZ
-      1x 688ZZ
     2x acopladores (flexible coupling) em alumínio para o eixo Z 5x5 mm
     2m Correias GT2 e 2x polias
-    E3D V6 LITE HOTEND para filamento de diâmetro 1.75mm
-    5x Motores Nema 17: 
+    1x E3D V6 LITE HOTEND para filamento de diâmetro 1.75mm
+    1x Fonte chaveada 12V 30A
+    1x Plug para o fio da fonte
+    1x LCD display com cartão SD 4GB
+    1x 12V 40A relay com diodo
+    1x Laque de cabelo
+    
+    Rolamentos:
+      11x LM8UU
+      5x 608ZZ (extrsora e adaptador de bobina)
+      2x F623ZZ
+      1x 688ZZ
+
+    Motores Nema 17: 
         4x 3.2kg para os eixos
         1x 5.2 kg/cm para a extrusora
-    Fonte chaveada 12V 30A
-    Plug para o fio da fonte
-    LCD display com cartão SD 4GB
-    1kg filamento.
-    12V 40A relay com diode
-    Laque de cabelo
-    
+     
     Cortes de frame em aço inox ou alumínio
        PRUSAframe_081217.dxf
+       
     kit peças impressas
        pecas_impressas.stl
+       
     kit de parafusos, porcas e arroelas
-      70x allen M3 10mm
-      16x allen M3 5mm
+      70x allen M3 10mm + porcas (frame e extrusora)
+      16x allen M3 6mm (motores)
+      3x allen M3 12mm + arroelas (motor da extrusora)
+      1x allen M3 sem cabeça 6mm + porca (engranagem menor da extrusora)
+      4x allen M4 40mm + porcas (endstops e extrusora)
+      2x allen M3 30mm + porcas (extrusora)
+      11x allen M3 25mm + porcas (extrusora, LCD, arduino e bandeja)
+      2x M3 porcas autotravantes (bandeja)
+      4x porcas autotravantes (eixo y, suporte da bobina, parafuso trator)
+      2x porcas (suporte da bobina)
+      1x parafuso correia Y
+      1x parafuso sem cabeöa eixo x
+      5x allen M2 10mm + porcas (endstops)
+      
     kit de barras lisas e barras roscadas
       2x barra lisa 8mm Ø 370mm (eixo X)
       2x barra lisa 8mm Ø 340mm (eixo Y)
       2x barra lisa 8mm Ø 325mm (eixo Z)
       2x barra roscada M5 310mm (eixo Z)
+      1x barra roscada (suporte do filamnto)
       
     Referências
       
